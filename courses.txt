@@ -1,0 +1,4 @@
+MATH101,Calculus,20
+ENG101,English Composition,30
+MATH101,Calculus,20
+ENG101,English Composition,30
